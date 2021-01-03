@@ -8,7 +8,7 @@ The "Hello World" for iOS Swift Development!
 - [x] 2. User see's custom background color.
 - [x] 3. User can tap a button to change the text color of the label.
 
-App Walkthrough:
+#### App Walkthrough:
 <img src="http://g.recordit.co/glznMHBHV0.gif" width=200><br>
 
 ### Optional User Stories
