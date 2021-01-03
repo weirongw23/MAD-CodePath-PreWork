@@ -1,5 +1,4 @@
-# CodePath Mobile App Development 2021
-Pre-Work: Hello World!
+# CodePath Mobile App Development 2021 (Pre-Work Project)
 
 ### App Description
 The "Hello World" for iOS Swift Development!
