@@ -21,5 +21,5 @@ The "Hello World" for iOS Swift Development!
    - [ ] c. If the text field is empty, update label with default text string.
    - [ ] d. The keyboard is dismissed after the button has been tapped.
    
-App Walkthrough:
+#### App Walkthrough:
 
